@@ -41,7 +41,7 @@ Oracle APEX Developer with hands-on experience in developing ERP applications, b
 - Developed a complete fashion retail platform with product catalog, shopping cart, promo code validation, and order management.
 - Implemented invoice generation and automated business workflows.
 - Built responsive user interfaces and database-driven functionality.
-- 
+  
 ### HR & Payroll Management System
 
 - Developed an Oracle APEX-based HR & Payroll solution.
