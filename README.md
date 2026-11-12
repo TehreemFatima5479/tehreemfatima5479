@@ -70,6 +70,16 @@ Oracle APEX Developer with hands-on experience in developing ERP applications, b
 - Worked with Oracle Database, SQL, PL/SQL, ERP modules, and JasperReports.
 - Contributed to reporting, database development, and business process enhancements.
 
+### Oracle APEX Developer
+**Punjab Life Insurance Company, Lahore** | Aug 2026 – Present
+
+- Developing a Life Insurance core system in Oracle APEX covering New Business, Need Analysis, Illustrations, Proposals, Manual Underwriting and Cash Value calculation.
+- Built the proposal lifecycle: client setup, life assured and payer details, medical questionnaires, nominees, benefit plans, riders and top-up premiums.
+- Implemented underwriting workflows: requirement calls (medical, non-medical, financial), document upload and receipt, provider fee confirmation, and revised illustrations with rider loading.
+- Wrote PL/SQL processes for illustration calculations, policy issuance, daily cash value computation, and scheduled jobs for payment reconciliation.
+- Integrated an external report server to generate and merge Need Analysis, Illustration, Proposal and Suitability PDFs into a single document.
+- Built a PDF compression workflow for document uploads, and dynamic UI with Dynamic Content regions, Interactive Grids and AJAX callbacks.
+
 ---
 
 ## 📫 Connect With Me
